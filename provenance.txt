@@ -1,0 +1,39 @@
+Template info:
+
+Group: jackietreehornpublishing
+Name: springboot-aggregate-microservice template
+Version 1.0.0-SNAPSHOT
+
+Backing GitHub repo:
+Owner: jackietreehornpublishing
+Repo: spring-boot-aggregate-template
+Branch: master
+Path (within repo): 
+sha: 5d19962837928e38bfa6a84ae108edaca59cb693
+
+
+Parameter values (passed in on template invocation):
+description='null'
+package_name='com.demo'
+team-id='T1KHULA3E'
+name='simpleaggregate'
+template='springboot-aggregate-microservice template'
+user-id='U1MEK88CC'
+group_id='jackietreehornpublishing'
+org='jackietreehornpublishing'
+version='0.0.1'
+artifact_id='simpleaggregate'
+visibility='public'
+
+Computed parameter values (computed based on parameter values passed in):
+date_time='05 07 2016 '
+configuration_class_name='SimpleaggregateConfiguration'
+package_path='com/demo'
+base_source_path='src/main/java'
+base_test_path='src/test/java'
+containerless_web_integration_test_name='SimpleaggregateOutOfContainerIntegrationTests'
+application_name='Simpleaggregate'
+application_class_name='SimpleaggregateApplication'
+startup_test_name='SimpleaggregateApplicationTests'
+web_integration_test_name='SimpleaggregateWebIntegrationTests'
+creation_date='Tue Jul 05 2016 14:54:05 GMT+0000 (UTC)'
